@@ -32,6 +32,7 @@ body{
     justify-content: space-around;
     padding: 6px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .noticia{
@@ -47,4 +48,17 @@ body{
     width: 900px;
     height: 506px;
     border: 4px;
+}
+
+#rodape{
+    background-color: black;
+    border: 10px;
+    width: 1890px;
+    height: 150px;
+}
+
+#Gifs{
+    height: 150px;
+    width: 150px;
+    position: fixed;
 }
