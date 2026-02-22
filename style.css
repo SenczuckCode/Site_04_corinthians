@@ -20,7 +20,6 @@ body{
     background-color: black;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
 
 #bar{
@@ -61,4 +60,6 @@ body{
     height: 150px;
     width: 150px;
     position: fixed;
+    bottom: 20px;
+    right: 20px;
 }
